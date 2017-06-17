@@ -1,0 +1,6 @@
+c:\users\marius\documents\visual studio 2015\Projects\FitnessCalculator\FitnessCalculator\bin\Debug\FitnessCalculator.exe.config
+c:\users\marius\documents\visual studio 2015\Projects\FitnessCalculator\FitnessCalculator\bin\Debug\FitnessCalculator.exe
+c:\users\marius\documents\visual studio 2015\Projects\FitnessCalculator\FitnessCalculator\bin\Debug\FitnessCalculator.pdb
+c:\users\marius\documents\visual studio 2015\Projects\FitnessCalculator\FitnessCalculator\obj\Debug\FitnessCalculator.csprojResolveAssemblyReference.cache
+c:\users\marius\documents\visual studio 2015\Projects\FitnessCalculator\FitnessCalculator\obj\Debug\FitnessCalculator.exe
+c:\users\marius\documents\visual studio 2015\Projects\FitnessCalculator\FitnessCalculator\obj\Debug\FitnessCalculator.pdb
